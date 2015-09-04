@@ -23,6 +23,10 @@ body {
 	margin-top: 50px;
 }
 
+#project4 {
+  bottom: 30px;
+}
+
 a {
 	text-decoration: none;
 	color: #C0C0C0;
@@ -102,7 +106,24 @@ a {
 }
 
 
+@media (max-width: 500px) {
+      .aboutme {
+      	left: 1%;
+      }
+      
+      .projects {
+      	margin-left: 55px;
+      }
 
+      .contact {
+      	left: 18%;
+      }
+
+      .name {
+      	right: 1%;
+      }
+
+}
 
 
 
