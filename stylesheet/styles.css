@@ -1,6 +1,5 @@
 body {
 	background: url(../images/black.jpg);
-  max-width: 90%;
 }
 
 .project {
@@ -122,6 +121,21 @@ a {
 
       .name {
       	right: 1%;
+      }
+
+}
+
+@media (min-width: 1400px) {
+      .name {
+        right: 5%;
+      }
+
+      .aboutme {
+        top: 90%;
+      }
+
+      body {
+        margin-left: 10%
       }
 
 }
