@@ -1,5 +1,6 @@
 body {
 	background: url(../images/black.jpg);
+  max-width: 90%;
 }
 
 .project {
