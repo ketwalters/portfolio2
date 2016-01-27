@@ -106,39 +106,6 @@ a {
 }
 
 
-@media (max-width: 500px) {
-      .aboutme {
-      	left: 1%;
-      }
-      
-      .projects {
-      	margin-left: 55px;
-      }
-
-      .contact {
-      	left: 18%;
-      }
-
-      .name {
-      	right: 1%;
-      }
-
-}
-
-@media (min-width: 2000px) {
-      .name {
-        right: 50%;
-      }
-
-      .aboutme {
-        top: 50%;
-      }
-
-      .project {
-        margin-left: 80%;
-      }
-
-}
 
 
 
