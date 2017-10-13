@@ -73,6 +73,10 @@ p a {
 	color: #C0C0C0;
 }
 
+a:hover, a:focus {
+	color: #933;
+}
+
 
 #project2 {
 	background-image: url(../images/brown-paper.jpeg);
