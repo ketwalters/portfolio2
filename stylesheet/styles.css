@@ -14,7 +14,7 @@
 	width: 100%;
 	height: auto;
 	text-align: center;
-	font: 60px 'Roboto Condensed', sans-serif;
+	font: 80px 'Roboto Condensed', sans-serif;
 	top: 30%;
 }
 
@@ -30,6 +30,7 @@
 }
 
 #project1 {
+	background-image: url(../images/purple.jpg);
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -38,7 +39,6 @@
 	z-index: 1000;
 	right: 90%;
 	font: 25px 'Roboto Condensed', sans-serif;
-	background-color: #A52A2A	
 }
 
 img {
@@ -60,18 +60,16 @@ span {
 	position: absolute; 
 	width: 45%;
 	top: 35%;
+	left: 6%;
 }
 
 a {
 	text-decoration: none;
 }
 
-a:hover {
-    color: transparent;
-    text-shadow: 0px 0px 5px rgb(0,0,0);
-}
 
 #project2 {
+	background-image: url(../images/brown-paper.jpeg);
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -80,26 +78,26 @@ a:hover {
 	z-index: 1000;
 	right: 90%;
 	font: 25px 'Roboto Condensed', sans-serif;
-	background-color: #8B4513;
 }
 
 #project3 {
+	background-image: url(../images/offwhite-wall.jpeg);
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	top: 100%;
+	top: 300%;
 	left: 0;
 	z-index: 1000;
 	right: 90%;
 	font: 25px 'Roboto Condensed', sans-serif;
-	background-color: black;
 }
 
 .contact {
+	background-image: url(../images/black.jpg);
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	top: 200%;
+	top: 400%;
 	left: 0;
 	z-index: 1000;
 	right: 90%;
@@ -113,7 +111,7 @@ a:hover {
 	width: 150px;
 	padding: 20px;
 	left: 27%;
-	color: black;
+	color: #C0C0C0;
 	top:37%;
 }
 
