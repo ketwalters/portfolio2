@@ -14,7 +14,7 @@
 	width: 100%;
 	height: auto;
 	text-align: center;
-	font: 80px 'Roboto Condensed', sans-serif;
+	font: 90px 'Roboto Condensed', sans-serif;
 	top: 30%;
 }
 
@@ -25,7 +25,7 @@
 	text-align: center;
 	color: #C0C0C0;
 	font: 25px 'Roboto Condensed', sans-serif;
-	top: 40%;
+	top: 46%;
 	left: 25%;
 }
 
@@ -63,8 +63,14 @@ span {
 	left: 6%;
 }
 
-a {
+span a{
 	text-decoration: none;
+	color: black;
+}
+
+p a {
+	text-decoration: none;
+	color: #C0C0C0;
 }
 
 
