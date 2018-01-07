@@ -8,6 +8,11 @@
 	z-index: 1000;
 }
 
+html, body {
+  height: 100%;
+	max-width: 890px;
+}
+
 #name {
 	color: #C0C0C0;
 	position: absolute;
