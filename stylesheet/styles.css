@@ -10,7 +10,6 @@
 
 html, body {
   height: 100%;
-	max-width: 890px;
 }
 
 #name {
@@ -49,9 +48,10 @@ html, body {
 img {
 	position: absolute;
 	display: inline-block;
-	left: 49%;
+	left: 47%;
 	top: 10%;
 }
+
 span {
 	display: inline-block;
 }
@@ -153,6 +153,13 @@ a:hover, a:focus {
   left: 48%;
 }
 
+@media all and (max-width: 800px) {
+	img  {
+		width: 400px;
+		height: 400px;
+	}
+
+}
 
 
 
